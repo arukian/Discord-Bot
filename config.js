@@ -19,8 +19,8 @@ module.exports = {
      {
       name: "GlaceYT",
       password: "glaceyt",
-      host: "193.226.78.187",
-      port:  9372,
+      host: "digi.pylex.xyz",
+      port:  11703,
       secure: false
     }
   ]
