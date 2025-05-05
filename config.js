@@ -18,7 +18,7 @@ module.exports = {
   nodes: [
      {
       name: "GlaceYT",
-      password: "glaceyt",
+      password: "ShinxPowa",
       host: "digi.pylex.xyz",
       port:  11703,
       secure: false
